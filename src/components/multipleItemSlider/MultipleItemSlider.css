@@ -1,0 +1,14 @@
+.multiitemslider{
+    background-color: #b4e9e9;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+  
+  .multi:hover{
+    color: black;
+    transform: scale(1.1);
+    transition: .2s;
+    box-shadow: 2px 2px -2px;
+  }

@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "productName": "TV",
+      "productprice": "1230",
+      "productImage": "https://www.bing.com/th?id=OIP.KvYfNLinNd_xOIoGLxsQgwHaHa&w=197&h=121&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "id": 1
+    },
+    {
+      "productName": "tv",
+      "productprice": "1234",
+      "productImage": "https://www.bing.com/th?id=OPA.6Gt%2fKY9mKWP9qA474C474&o=5&pid=21.1&w=140&h=140&rs=1&qlt=100&dpr=1",
+      "id": 2
+    }
+  ]
+}
